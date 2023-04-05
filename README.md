@@ -35,7 +35,7 @@ background-color: #007aff;
 
 ## License
 
-Vistron is licensed under the GNU GPLv2 license. See the [LICENSE](./LICENSE) file for details.
+Vistron is licensed under the MIT license. See the [LICENSE](./LICENSE) file for details.
 
 ## Credits
 
